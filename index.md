@@ -29,7 +29,7 @@ So I have 3 weeks left. Next week, in order to decrease the size of the game, I 
 
 # Video
 
-You can view the video trailer in this website: Link: [breakout_trailer.mp4](https://drive.google.com/file/d/1J2yctzmQSII5dBA7eiaZ-MNhWkmjEiCV/view?usp=sharing)
+You can watch the video trailer of Breakout in this website: Link: [breakout_trailer.mp4](https://drive.google.com/file/d/1J2yctzmQSII5dBA7eiaZ-MNhWkmjEiCV/view?usp=sharing)
 
 # Screenshots
 <img src="start_page.png">
