@@ -21,7 +21,7 @@
 This game is only available for windows users. If you want to build this game, you have to install **python3**. And then use **mysys** or **command line**, go to the directory **./Game** and execute **python build.py**.
 
 # Play
-You can download the game from this link: [Breakout.7z](https://drive.google.com/file/d/1tc_afwgDs1Ew39ERp8QAfqxnTQpyHidf/view?usp=sharing).
+You can download and unzip the game from this link: [Breakout.7z](https://drive.google.com/file/d/1tc_afwgDs1Ew39ERp8QAfqxnTQpyHidf/view?usp=sharing).
 
 After download, if you want to play this game, you can double click **breakout.exe** file in the **bin** folder. If you use command line or other similar tools, you should go into the folder **bin** and then execute **breakout.exe**.
 
