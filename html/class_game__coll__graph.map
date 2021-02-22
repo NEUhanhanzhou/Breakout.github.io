@@ -1,0 +1,8 @@
+<map id="Game" name="Game">
+<area shape="rect" id="node1" title="This class sets up a full graphics program &#160;Initialization: initMedia()&#45;&gt;createLevel()&#45;&gt;initUI()&#45;&gt;sel..." alt="" coords="142,301,199,328"/>
+<area shape="rect" id="node2" href="$class_u_i_text.html" title="This class sets up, update and render a ball." alt="" coords="5,109,64,136"/>
+<area shape="rect" id="node3" href="$class_paddle.html" title="This class sets up, update and render a paddle." alt="" coords="98,109,161,136"/>
+<area shape="rect" id="node4" href="$class_vec2.html" title="This class sets up or calculate a two dimensional vector. The two parameters required should be float..." alt="" coords="142,5,194,32"/>
+<area shape="rect" id="node6" href="$class_ball.html" title="This class sets up, update and render a ball." alt="" coords="186,109,230,136"/>
+<area shape="rect" id="node5" href="$class_brick.html" title="This class contains the properties of a brick." alt="" coords="254,109,306,136"/>
+</map>

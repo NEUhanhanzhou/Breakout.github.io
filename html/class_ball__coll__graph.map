@@ -1,0 +1,4 @@
+<map id="Ball" name="Ball">
+<area shape="rect" id="node1" title="This class sets up, update and render a ball." alt="" coords="9,109,53,136"/>
+<area shape="rect" id="node2" href="$class_vec2.html" title="This class sets up or calculate a two dimensional vector. The two parameters required should be float..." alt="" coords="5,5,57,32"/>
+</map>

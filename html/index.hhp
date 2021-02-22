@@ -1,0 +1,67 @@
+[OPTIONS]
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=Breakout
+
+[WINDOWS]
+main="Breakout","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+_ball_8h_source.html
+_game_8h_source.html
+_paddle_8h_source.html
+_resource_manager_8h_source.html
+_u_i_text_8h_source.html
+_vec2_8h_source.html
+annotated.html
+class_ball-members.html
+class_ball.html
+class_brick-members.html
+class_brick.html
+class_game-members.html
+class_game.html
+class_paddle-members.html
+class_paddle.html
+class_resource_manager-members.html
+class_resource_manager.html
+class_u_i_text-members.html
+class_u_i_text.html
+class_vec2-members.html
+class_vec2.html
+classes.html
+dir_383c7eb663533581eba8c6d4dd354d28.html
+dir_3c82111e427b6459bb24f3a81fe79b84.html
+dir_6d5db77374eeec71d412e2cd4e7bee04.html
+dir_912530758659247b0291351a9429c284.html
+dir_c9c25f5ed714e7926c35d13374eb0670.html
+files.html
+functions.html
+functions_func.html
+functions_vars.html
+graph_legend.html
+index.html
+md__d___n_e_u__c_s5850_monorepo__n_e_uhanhanzhou__assignment1__breakout__game__r_e_a_d_m_e.html
+pages.html
+struct_contact-members.html
+struct_contact.html
+bc_s.png
+bdwn.png
+class_ball__coll__graph.png
+class_game__coll__graph.png
+class_paddle__coll__graph.png
+closed.png
+graph_legend.png
+nav_f.png
+nav_h.png
+open.png
+sync_off.png
+sync_on.png
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
