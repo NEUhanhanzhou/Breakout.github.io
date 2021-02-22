@@ -21,7 +21,7 @@
 This game is only available for windows users. If you want to build this game, you have to install **python3**. And then use **mysys** or **command line** and go to the directory **./Game** and execute **python build.py**.
 
 # Play
-If you want to play this game, you can double click **breakout.exe** file in the **bin** folder. If you use command line or other similar tools, you should go into the folder **bin** folder and then execute **breakout.exe**.
+If you want to play this game, you can double click **breakout.exe** file in the **bin** folder. If you use command line or other similar tools, you should go into the folder **bin** and then execute **breakout.exe**.
 
 # Documentation
 [Main page](./html/index.html)
