@@ -26,7 +26,8 @@ If you want to play this game, you can double click **breakout.exe** file in the
 # Documentation
 [Main page](./html/index.html)
 # Binary Link
-You can download Breakout, unzip and run directly on Windows 10 platform. Link: [Breakout.7z](https://drive.google.com/file/d/1Ydjeh8gpVST-ZgVNdRNQnxZKUO-Sc5Vw/view?usp=sharing)
+You can download Breakout on Google drive, unzip and run directly on Windows 10 platform if you are have northeastern account. Link: [Breakout.7z](https://drive.google.com/file/d/1hja6T8q5zGLiyiclGFBYEn-Vaj9ENcZa/view?usp=sharing)
+Otherwise, you can send an email to me to ask for source code.
 # Post Mortem
 
 I can spend 1 week restructuring my code, including use ResourceManager to load all the resources. Which means all the images, music, sound effect and font should be loaded in the ResourceManager, instead of only loading images. In this week I will add more different kinds of resources and then use maps to store them based on the data type. Next, I will spend 2 weeks constructing a complete UI interface, with which the player can pause the game or restart the game at any time. And then use 2 more weeks to make a game screen made of grids and load all bricks into those girds which means the width and height of each brick will be fixed.
