@@ -7,6 +7,7 @@
       <h1>Hang Zhou</h1>
       <p><b>Major : Game Science and Design</b></p>
       <p><b>Email : zhou.han@northeastern.edu</b></p>
+      <p><b>Assignment 1: Breakout</b></p>
     </td>
      <td width="25%">
       <img src="hangzhou.jpg" width="100%">
