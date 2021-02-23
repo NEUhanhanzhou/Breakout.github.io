@@ -28,7 +28,7 @@ After download, if you want to play this game, you can double click **breakout.e
 # Documentation
 [Main page](./html/index.html)
 # Binary Link
-You can download Breakout on Google drive, unzip and run directly on Windows 10 platform if you are have northeastern account. Link: [Breakout.zip](https://drive.google.com/file/d/1N8u0M0VruUP5DBUIuxjHiSfzmUkJQvCW/view?usp=sharing)
+You can download Breakout on Google drive, unzip and run directly on Windows 10 platform if you have a northeastern account. Link: [Breakout.zip](https://drive.google.com/file/d/1N8u0M0VruUP5DBUIuxjHiSfzmUkJQvCW/view?usp=sharing)
 
 This zip file only contains the assets and binary files required to load game.
 # Post Mortem
